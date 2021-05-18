@@ -1,5 +1,5 @@
 # dsp312project
 
-# first human is identified in a frame
+# first humans are identified in a frame
 
-# distance between 2 human is determined
+# distance between 2 humans is determined
